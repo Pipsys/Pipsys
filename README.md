@@ -3,10 +3,10 @@
 - 👀 I'm interested in Python programming, learning C++
 - 🌱 I'm currently studying to be a programmer, learning C++ and C# programming languages. Learn more about databases
 - 💞️ I invite you to cooperate...
-- 📫 How to contact me: my telegram https://t.me/wwwpipsys<p>
-   <img href="https://t.me/TuchkaWeatherForecastBot" src="https://i.ibb.co/cv8sLC2/free-icon-telegram-2111646.png" width="20" 
+<p>- 📫 How to contact me:
+   <img href="https://t.me/wwwpipsys" src="https://i.ibb.co/cv8sLC2/free-icon-telegram-2111646.png" width="20" 
    height="20" alt="Weather forecast telegram bot"> 
-   <a href="https://t.me/TuchkaWeatherForecastBot">Telegram bot</a>
+   <a href="https://t.me/wwwpipsys">Telegram</a>
 </p>
 
 <!---
