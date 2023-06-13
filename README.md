@@ -2,6 +2,7 @@
 - 👋 Hi, I'm @Pipsys
 - 👀 I'm interested in Python programming, learning C++
 - 🌱 I'm currently studying to be a programmer, learning C++ and C# programming languages. Also learning about databases
+- 💞️ Feel free to look at my code and submit PRs
 - 📫 How to contact me: <p><img href="https://t.me/wwwpipsys" src="https://i.ibb.co/cv8sLC2/free-icon-telegram-2111646.png" width="15" height="15" alt="Weather forecast telegram bot"> 
    <a href="https://t.me/wwwpipsys">Telegram</a>
 </p>
